@@ -4,7 +4,7 @@
 # Each entry sets a local environment variable and overrides ENV variables in the Unix shell.
 GMAIL_USERNAME: mss5wot
 GMAIL_PASSWORD: 100401930
-MAILCHIMP_API_KEY: 96603c1e1a18a185a22a12fe561568bd'-'us3
+MAILCHIMP_API_KEY: 96603c1e1a18a185a22a12fe561568bd-us3
 MAILCHIMP_LIST_ID: e56fce4179
 DOMAIN_NAME: example.com
 OWNER_EMAIL: t153426789@hotmail.com
